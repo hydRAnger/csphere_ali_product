@@ -1,0 +1,22 @@
+.row {
+  width: 100%;
+  display: table;
+  max-width: 759px;
+  margin-bottom: 20px;
+}
+
+.col-img {
+  width: 65%;
+  max-width: 490px;
+  float: left;
+}
+
+img {
+  max-width: inherit;
+}
+
+.col-desc {
+  width: 35%;
+  max-width: 260px;
+  float: left;
+}
